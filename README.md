@@ -60,13 +60,15 @@ MySQL | Git | GitHub | SQLite | Firebase
 <a><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadArsalan-04&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 
 
-## Connect with Me
+## 🤝🏻 &nbsp;Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/muhammad-arsalan-64a874233)
-- [Instagram](https://instagram.com/muhammad_.arsalan?igshid=ZDc4ODBmNjlmNQ==)
-- Email: muhammadarsalan0404@gmail.com
-- [Facebook](https://www.facebook.com/profile.php?id=100017869321263)
-- WhatsApp: +923490550592
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-arsalan-64a874233/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad%20Arsalan-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://instagram.com/muhammad_.arsalan?igshid=ZDc4ODBmNjlmNQ==" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-muhammad_.arsalan-blue?style=flat-square&logo=instagram"></a>
+  <a href="mailto:muhammadarsalan0404@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-muhammadarsalan0404%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.facebook.com/profile.php?id=100017869321263" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Muhammad%20Arsalan-blue?style=flat-square&logo=facebook"></a>
+  <a href="https://wa.me/923490550592" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-%2B923490550592-blue?style=flat-square&logo=whatsapp"></a>
+</p>
 
 <!--
 **MuhammadArsalan-04/MuhammadArsalan-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
