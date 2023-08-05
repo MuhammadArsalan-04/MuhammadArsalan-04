@@ -6,24 +6,27 @@
 
 # About Me
 
-🎓 Hi, I'm a computer science student at the Kohat University of Science and Technology (KUST) and an aspiring Flutter app developer.
-👨‍💻 I'm proficient in the Flutter framework and have a strong foundation in software development concepts.
-💻 In my free time, I enjoy working on personal projects and learning about new items and widgets.
-🌱 I'm constantly pushing myself to go beyond my current level to create more aesthetic UI/UX and work on the backend to make it more efficient.
+- 🎓 Hi, I'm a computer science student at the Kohat University of Science and Technology (KUST) and an aspiring Flutter app developer.
+- 👨‍💻 I'm proficient in the Flutter framework and have a strong foundation in software development concepts.
+- 💻 In my free time, I enjoy working on personal projects and learning about new items and widgets.
+- 🌱 I'm constantly pushing myself to go beyond my current level to create more aesthetic UI/UX and work on the backend to make it more efficient.
+
 
 ## Tech Stack
 
 ### Programming and Framework
 
-- ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) Flutter
-- ![Dart](https://img.icons8.com/color/48/000000/dart.png) Dart
-- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
-- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
-- ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) C#
-- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+<kbd>
+  <img height="50" src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+  <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+</kbd>
 
 
 ### Databases and Cloud Hosting
