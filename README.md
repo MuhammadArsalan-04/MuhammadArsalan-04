@@ -16,17 +16,16 @@
 
 ### Programming and Framework
 
-<kbd>
-  <img height="50" src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
-  <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-</kbd>
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
 
 
 ### Databases and Cloud Hosting
