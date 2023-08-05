@@ -34,7 +34,16 @@ MySQL | Git | GitHub | SQLite | Firebase
 
 ### Software and Tools
 
-Visual Studio Code | Eclipse | IntelliJ IDE | Android Studio | Brave | Git | GitHub | MS Office | Stack Overflow
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide)
+![IntelliJ IDE](https://img.shields.io/badge/-IntelliJ%20IDE-333333?style=flat&logo=intellij-idea)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
+![Brave](https://img.shields.io/badge/-Brave-333333?style=flat&logo=brave)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![MS Office](https://img.shields.io/badge/-MS%20Office-333333?style=flat&logo=microsoft-office)
+![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-333333?style=flat&logo=stackoverflow)
+
 
 ## GitHub Stats
 
