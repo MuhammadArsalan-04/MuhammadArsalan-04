@@ -4,7 +4,7 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/MuhammadArsalan-04)
 
-# About Me
+### 👨🏻‍💻 &nbsp;About Me
 
 - 🎓 Hi, I'm a computer science student at the Kohat University of Science and Technology (KUST) and an aspiring Flutter app developer.
 - 👨‍💻 I'm proficient in the Flutter framework and have a strong foundation in software development concepts.
@@ -14,7 +14,7 @@
 
 ## Tech Stack
 
-### Programming and Framework
+### 👨‍💻 Programming and Framework
 
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
@@ -28,11 +28,17 @@
 
 
 
-### Databases and Cloud Hosting
+###  🗄️ Databases and Cloud Hosting
 
-MySQL | Git | GitHub | SQLite | Firebase
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
-### Software and Tools
+
+### 💻 Software and Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide)
