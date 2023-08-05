@@ -15,7 +15,15 @@
 
 ### Programming and Framework
 
-![Flutter](https://img.icons8.com/color/48/000000/flutter.png) ![Dart](https://img.icons8.com/color/48/000000/dart.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+- ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) Flutter
+- ![Dart](https://img.icons8.com/color/48/000000/dart.png) Dart
+- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
+- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
+- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
+- ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) C#
+- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5
+- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
 
 
 ### Databases and Cloud Hosting
