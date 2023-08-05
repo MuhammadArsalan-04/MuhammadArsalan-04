@@ -1,8 +1,8 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F71111&center=true&vCenter=true&width=435&lines=Assalam+O+Aalaikom!;Hello!+There+%F0%9F%91%8B)](https://github.com/sabghat90)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F71111&center=true&vCenter=true&width=435&lines=Assalam+O+Aalaikom!;Hello!+There+%F0%9F%91%8B)](https://github.com/MuhammadArsalan-04)
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/sabghat90)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/MuhammadArsalan-04)
 
 # About Me
 
@@ -27,7 +27,7 @@ Visual Studio Code | Eclipse | IntelliJ IDE | Android Studio | Brave | Git | Git
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabghat90&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadArsalan-04&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
 ## Most Used Languages
 
