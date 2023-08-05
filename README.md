@@ -15,7 +15,8 @@
 
 ### Programming and Framework
 
-![Flutter](https://i.imgur.com/ZK3CNlv.png) ![Dart](https://i.imgur.com/irXT1e0.png) ![Python](https://i.imgur.com/rKfYJv1.png) ![Java](https://i.imgur.com/QQg4B9Y.png) ![C++](https://i.imgur.com/YLs2lXm.png) ![C#](https://i.imgur.com/1w3zB7L.png) ![HTML5](https://i.imgur.com/d1JxZC9.png) ![CSS](https://i.imgur.com/vApbGso.png) ![JavaScript](https://i.imgur.com/u7ifzWm.png)
+![Flutter](https://img.icons8.com/color/48/000000/flutter.png) ![Dart](https://img.icons8.com/color/48/000000/dart.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+
 
 ### Databases and Cloud Hosting
 
