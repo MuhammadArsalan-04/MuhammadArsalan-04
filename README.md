@@ -15,7 +15,7 @@
 
 ### Programming and Framework
 
-Flutter | Dart | Python | Java | C++ | C# | HTML5 | CSS | JavaScript
+![Flutter](https://i.imgur.com/ZK3CNlv.png) ![Dart](https://i.imgur.com/irXT1e0.png) ![Python](https://i.imgur.com/rKfYJv1.png) ![Java](https://i.imgur.com/QQg4B9Y.png) ![C++](https://i.imgur.com/YLs2lXm.png) ![C#](https://i.imgur.com/1w3zB7L.png) ![HTML5](https://i.imgur.com/d1JxZC9.png) ![CSS](https://i.imgur.com/vApbGso.png) ![JavaScript](https://i.imgur.com/u7ifzWm.png)
 
 ### Databases and Cloud Hosting
 
@@ -31,7 +31,7 @@ Visual Studio Code | Eclipse | IntelliJ IDE | Android Studio | Brave | Git | Git
 
 ## Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabghat90&layout=compact&hide=html,css&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadArsalan-04&layout=compact&hide=html,css&theme=dark)
 
 ## Connect with Me
 
